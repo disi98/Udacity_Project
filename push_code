@@ -1,0 +1,4 @@
+#!/bin/bash
+git add . --all   
+git commit -m "Initial Repo before any edit"
+git push -u origin master
